@@ -1,0 +1,5 @@
+{None: [['jobName', 'salaryDesc', 'jobExperience', 'jobDegree', 'cityName', 'areaDistrict', 'businessDistrict', 'brandName', 'brandIndustry', 'brandStageName', 'brandScaleName', 'welfareList', 'skills', 'jobDesc']]}
+{None: [['jobName', 'salaryDesc', 'jobExperience', 'jobDegree', 'cityName', 'areaDistrict', 'businessDistrict', 'brandName', 'brandIndustry', 'brandStageName', 'brandScaleName', 'welfareList', 'skills', 'jobDesc']]}
+{None: [['jobName', 'salaryDesc', 'jobExperience', 'jobDegree', 'cityName', 'areaDistrict', 'businessDistrict', 'brandName', 'brandIndustry', 'brandStageName', 'brandScaleName', 'welfareList', 'skills', 'jobDesc']]}
+{None: [['jobName', 'salaryDesc', 'jobExperience', 'jobDegree', 'cityName', 'areaDistrict', 'businessDistrict', 'brandName', 'brandIndustry', 'brandStageName', 'brandScaleName', 'welfareList', 'skills', 'jobDesc']]}
+{None: [['jobName', 'salaryDesc', 'jobExperience', 'jobDegree', 'cityName', 'areaDistrict', 'businessDistrict', 'brandName', 'brandIndustry', 'brandStageName', 'brandScaleName', 'welfareList', 'skills', 'jobDesc']]}

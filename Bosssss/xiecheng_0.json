@@ -1,0 +1,1915 @@
+{
+  "Response": {
+    "hotelList": {
+      "list": [
+        {
+          "member": {
+            "list": []
+          },
+          "score": {
+            "number": "4.6",
+            "desc": "好",
+            "subScore": [
+              {
+                "number": "4.7",
+                "content": "环境"
+              },
+              {
+                "number": "4.6",
+                "content": "卫生"
+              },
+              {
+                "number": "4.7",
+                "content": "服务"
+              },
+              {
+                "number": "4.6",
+                "content": "设施"
+              }
+            ]
+          },
+          "money": {
+            "price": "270",
+            "priceDelete": "296",
+            "priceNote": "每晚 (不含税)",
+            "discount": [
+              {
+                "type": "1",
+                "list": [
+                  "已减¥26"
+                ]
+              }
+            ],
+            "priceAndTax": "269.75",
+            "includeTaxText": "",
+            "includeTaxPrice": ""
+          },
+          "base": {
+            "starType": "DIAMOND",
+            "star": 3,
+            "hotelName": "维也纳酒店(深圳北站壹城中心店)",
+            "hotelId": 5983447,
+            "bookUrl": "",
+            "book": "查看详情",
+            "badge": "23",
+            "badgeHover": "携程紧密合作酒店/供应商，提供实惠价格。",
+            "isFavor": false,
+            "hotelEnName": "",
+            "tags": [
+              "棋牌室",
+              "免费停车",
+              "洗衣房",
+              "干衣机",
+              "无烟楼层",
+              "免费客房WiFi",
+              "亲子主题房",
+              "自助早餐"
+            ],
+            "isFullRoom": false,
+            "isPrimeHotel": false,
+            "encryptTags": [],
+            "p5Tags": [
+              {
+                "title": "优惠26",
+                "style": "0"
+              },
+              {
+                "title": "十亿豪补",
+                "style": "1"
+              }
+            ],
+            "p6Tags": [],
+            "person": 0,
+            "shaIcon": "",
+            "starIcon": "http://webresource.c-ctrip.com/ResH5HotelOnline/R1/hotel_detail_icon_diamond3_20180824.png",
+            "hotelStatus": 0,
+            "hotelTypeTag": "",
+            "badgeUrl": "https://pages.c-ctrip.com/wireless-app/icons/ic_tag_silver_3x.png"
+          },
+          "picture": {
+            "list": [
+              "//dimg04.c-ctrip.com/images/1mc4r12000dngis0r1A72_R_300_225_R5_Q70_D.jpg"
+            ],
+            "defaultUrl": "http://pic.tripcdn.com/picaresenglish/ibu/fe-hotel/images/nohotelsmall.4fc3abb4.png"
+          },
+          "position": {
+            "cityId": 30,
+            "area": "深圳北站地区",
+            "poi": "距市中心直线11.3公里",
+            "lat": "22.642204",
+            "lng": "114.033516",
+            "address": "梅陇大道860号",
+            "cityName": "深圳"
+          },
+          "transport": {},
+          "comment": {
+            "content": "633条点评"
+          },
+          "banner": {
+            "type": 6,
+            "traceAdContextId": "H4sIAAAAAAAA/+NYcO17+zwjAUYDRg/GAMYoFkMrY4MEpgLWDka5CYyMMxiZAGMWEvYiAAAA"
+          },
+          "trace": {},
+          "promotion": [],
+          "isHotHotel": false,
+          "ctripTrace": {
+            "listRoomId": 0,
+            "listShadowId": 0,
+            "exchange": "1.0",
+            "currency": "CNY",
+            "productInfo": "00000b7EUqtZn7M0wMsi6PR1KqlXANzCeDbfCeuzrhPLza5yATl3MEtU1iAhCSO/Q7lZJ7czk7+6Luymp\nazEw5jVnPlLuPMPimLkbo1Fwh7lzUBzcHcyKKSDZBSXMzLhGRpqN8pETDwLoVwhYLpH9INVD3Z2F\n40LN0nh0ibFZnFrZ5ZYe+YDib3wAEZxcefZyOxVW+36pBzy5QZcPmHNj1EYELPKafoS69FpGS1Ek\nV1SpQoSQm/r23c1v7G9yXHgq0I0l4rSroEJ4hiYcicDmDFX07qUaGPc/d/o+CG1M57Wqnf71XLbE\nABvXRegc7nuNDmN9mLIAhLjTQ02sNGCU+xVzaTnHSUsweaaUUufBKaN6qAE+RHHHMa+G85/0cxG4\nAoTz3IV4VxnSI0EyTyYlI/aNyH60f3e9oRGHGvVSC2DuEtZihVVsVjPpIEbZaci++FyX+pgTmEkc\njHUJhcY1/d7w0AhJXDOBVUT/C1R1gmuudzfhFhm3mw5GZFHgbPTKFB52k0WS12v+RtR8UNsG6AQc\n3bmiuziyXCh6HH+xoRRCyNnuBzmEHP1V4LQ0kiz7An+9SmCuMvbauuJIK+PXP9h+V9Fi0DnRXou0\n1eAJkP/FM5iPSmKMCqYTu1rqQwkuiYOEvQeM+wVQLgq86rMwigpK9cbHa0jrsHJ8\n"
+          },
+          "passToNext": "00000IdepS3lHe6zsaCdD4hpVozQSqUtoMEmARbQlAyff+QI/x7YNH2QADQ2dH/yfhYMvPILXk2R5K3ObtmuCS87HZ6FRcc5i/GxKIR8r91t3YQCYYYZu2PWI7ZM2f6jgsO6hpr3affI7bNzlITjgCFrI+hX/3F+ndCpq0mVbj9m73X4KftnKH34SnvKjRGWa9gEdqYbNW8sgitqRcqDx3IL/Z9DcNbRGJH5BLkiEuG0OyFBaicK1wxtjvfdr0dl9wad9sc+iAFOjsIqA39BZ86pkwA==",
+          "traceInfo": "{\"timestamp\":1726056623287,\"checkIn\":\"2024-09-28\",\"checkOut\":\"2024-10-02\",\"region\":\"MAINLAND\",\"cityId\":30,\"hotelId\":5983447,\"groupId\":565,\"roomId\":1580520951,\"shadowId\":0,\"ismemberlogin\":true,\"uid\":\"DF418B7F\",\"infoSec\":false}",
+          "computeRoomPerson": 0,
+          "roomLayerInfo": {
+            "prePaidInfo": {
+              "list": [
+                {
+                  "type": "RoomPrice",
+                  "title": "每间每晚均价",
+                  "content": "¥295.25",
+                  "adultAndChildrenInfo": ""
+                },
+                {
+                  "type": "Coupon",
+                  "title": "十亿豪补",
+                  "content": "- ¥25.50"
+                }
+              ]
+            },
+            "totalInfo": {
+              "price": "¥269.75",
+              "aboutEqualPrice": "¥270"
+            },
+            "taxInfo": {
+              "offlineTaxInfoDetailList": [],
+              "totalOfflineTaxPrice": ""
+            }
+          }
+        },
+        {
+          "member": {
+            "list": []
+          },
+          "score": {
+            "number": "4.7",
+            "desc": "很好",
+            "subScore": [
+              {
+                "number": "4.7",
+                "content": "环境"
+              },
+              {
+                "number": "4.7",
+                "content": "卫生"
+              },
+              {
+                "number": "4.7",
+                "content": "服务"
+              },
+              {
+                "number": "4.6",
+                "content": "设施"
+              }
+            ]
+          },
+          "money": {
+            "price": "293",
+            "priceDelete": "294",
+            "priceNote": "每晚 (不含税)",
+            "discount": [
+              {
+                "type": "1",
+                "list": [
+                  "已减¥0"
+                ]
+              }
+            ],
+            "priceAndTax": "293",
+            "includeTaxText": "",
+            "includeTaxPrice": ""
+          },
+          "base": {
+            "starType": "DIAMOND",
+            "star": 3,
+            "hotelName": "维也纳酒店(深圳南油服装城南光地铁站店)",
+            "hotelId": 1284920,
+            "bookUrl": "",
+            "book": "查看详情",
+            "badge": "23",
+            "badgeHover": "携程紧密合作酒店/供应商，提供实惠价格。",
+            "isFavor": false,
+            "hotelEnName": "",
+            "tags": [
+              "免费停车",
+              "洗衣服务",
+              "茶室",
+              "机器人服务",
+              "欧式风格",
+              "无烟楼层",
+              "干衣机",
+              "免费客房WiFi",
+              "会议厅",
+              "自助早餐"
+            ],
+            "isFullRoom": false,
+            "isPrimeHotel": false,
+            "encryptTags": [],
+            "p5Tags": [
+              {
+                "title": "优惠1",
+                "style": "0"
+              },
+              {
+                "title": "十亿豪补",
+                "style": "1"
+              }
+            ],
+            "p6Tags": [],
+            "person": 0,
+            "shaIcon": "",
+            "starIcon": "http://webresource.c-ctrip.com/ResH5HotelOnline/R1/hotel_detail_icon_diamond3_20180824.png",
+            "hotelStatus": 0,
+            "hotelTypeTag": "",
+            "badgeUrl": "https://pages.c-ctrip.com/wireless-app/icons/ic_tag_silver_3x.png"
+          },
+          "picture": {
+            "list": [
+              "//dimg04.c-ctrip.com/images/1mc6c12000as0182yE675_R_300_225_R5_Q70_D.jpg"
+            ],
+            "defaultUrl": "http://pic.tripcdn.com/picaresenglish/ibu/fe-hotel/images/nohotelsmall.4fc3abb4.png"
+          },
+          "position": {
+            "cityId": 30,
+            "area": "海岸城/后海",
+            "poi": "距市中心直线14.3公里",
+            "lat": "22.517329",
+            "lng": "113.921903",
+            "address": "亿利达大厦2栋",
+            "cityName": "深圳"
+          },
+          "transport": {},
+          "comment": {
+            "content": "897条点评"
+          },
+          "trace": {},
+          "promotion": [],
+          "isHotHotel": false,
+          "ctripTrace": {
+            "listRoomId": 0,
+            "listShadowId": 0,
+            "exchange": "1.0",
+            "currency": "CNY",
+            "productInfo": "00000b7EUqtZn7M0wMsi6PR1KqpPLKiNImBmEeuzrhPLza5yATl3MEtU1iAhCSO/Q7lZJ7czk7+6Luymp\nazEw5jVnPlLuPMPimLkbo1Fwh7lzUBwBTUJiKGK7GkSUf5NraAAq1bAHAhQxQSFG3EK/r5eS9Bvw\nOEyvOlohjMHnE8oPaR/1XLbEABvXRbpX5H0DdlDzrlD5rF8bCAUe+YDib3wAEWKZcrx1UUkI6PqD\nSMZt3ZA35aErb2UaLG89iQKwlb8l9Fn5oVkl5H1vclx4KtCNJWL7QWC4nPYUD5hzY9RGBCzymn6E\nuvRaRv3DIA2DukOI0OxfSC9uTGBHVKLXhyJkiaFAxlCPfthBBD/jUNJcqFHg63lIT3kj8308jMA+\nsv67bTn7CiyrXU0DDuOepvXs4m/x/qtQbwnm3mkCPW8HXE/LDBRTrkIF+zZmFsnyddjOSIKdKFa9\nKqY9KgEo5wHnijV4ECuAwuYBolRH0a20qXuJHpOIsE1i0yPTcY9yAg5dvo6a+M677oAZmdYDTE/f\nVN53M4nHkwF38MvXD7Koffivb5R+gZK/oCUJ/MABfhAfQv2rwaTjBJit7iKfbRMJ6AxDC78FkpEA\nuvjgrt93wWdA59jjv29NFdv7QTz82NZZ4ysLjqvCDeU/tJT7iTmpi4N5IPeMy2kc\n"
+          },
+          "passToNext": "00000IdepS3lHe6zsaCdD4hpVozQSqUtoMEmARbQlAyff+QI/x7YNH2QADQ2dH/yfhYMvPILXk2R5K3ObtmuCS87HZ6FRcc5i/GxKIR8r91t3YQCYYYZu2PWI7ZM2f6jgsO6hpr3affI7bNxgXaRRwuJs0xX/3F+ndCpq0mVbj9m73X4KftnKH34SnvKjRGWa9gEdEB1Y0NBCk1RnXMSczJP/gdDcNbRGJH5BLM+RrvJgM/foARQxZXdPe/dr0dl9wad9sc+iAFOjsIqA39BZ86pkwA==",
+          "traceInfo": "{\"timestamp\":1726056623288,\"checkIn\":\"2024-09-28\",\"checkOut\":\"2024-10-02\",\"region\":\"MAINLAND\",\"cityId\":30,\"hotelId\":1284920,\"groupId\":565,\"roomId\":1580571458,\"shadowId\":0,\"ismemberlogin\":true,\"uid\":\"DF418B7F\",\"infoSec\":false}",
+          "computeRoomPerson": 0,
+          "roomLayerInfo": {
+            "prePaidInfo": {
+              "list": [
+                {
+                  "type": "RoomPrice",
+                  "title": "每间每晚均价",
+                  "content": "¥293.50",
+                  "adultAndChildrenInfo": ""
+                },
+                {
+                  "type": "Coupon",
+                  "title": "十亿豪补",
+                  "content": "- ¥0.50"
+                }
+              ]
+            },
+            "totalInfo": {
+              "price": "¥293"
+            },
+            "taxInfo": {
+              "offlineTaxInfoDetailList": [],
+              "totalOfflineTaxPrice": ""
+            }
+          }
+        },
+        {
+          "member": {
+            "list": []
+          },
+          "score": {
+            "number": "4.8",
+            "desc": "棒",
+            "subScore": [
+              {
+                "number": "4.8",
+                "content": "环境"
+              },
+              {
+                "number": "4.8",
+                "content": "卫生"
+              },
+              {
+                "number": "4.8",
+                "content": "服务"
+              },
+              {
+                "number": "4.8",
+                "content": "设施"
+              }
+            ]
+          },
+          "money": {
+            "price": "364",
+            "priceDelete": "380",
+            "priceNote": "每晚 (不含税)",
+            "discount": [
+              {
+                "type": "1",
+                "list": [
+                  "已减¥16"
+                ]
+              }
+            ],
+            "priceAndTax": "363.75",
+            "includeTaxText": "",
+            "includeTaxPrice": ""
+          },
+          "base": {
+            "starType": "DIAMOND",
+            "star": 3,
+            "hotelName": "维也纳酒店(深圳罗湖口岸爱国路店)",
+            "hotelId": 534924,
+            "bookUrl": "",
+            "book": "查看详情",
+            "badge": "23",
+            "badgeHover": "携程紧密合作酒店/供应商，提供实惠价格。",
+            "isFavor": false,
+            "hotelEnName": "",
+            "tags": [
+              "自助早餐",
+              "免费停车",
+              "洗衣房",
+              "会议厅",
+              "机器人服务",
+              "健身室",
+              "商务中心",
+              "智能客控",
+              "套房",
+              "无烟楼层"
+            ],
+            "isFullRoom": false,
+            "isPrimeHotel": false,
+            "encryptTags": [],
+            "p5Tags": [
+              {
+                "title": "优惠16",
+                "style": "0"
+              },
+              {
+                "title": "十亿豪补",
+                "style": "1"
+              },
+              {
+                "title": "特惠一口价",
+                "style": "1"
+              }
+            ],
+            "p6Tags": [],
+            "person": 0,
+            "shaIcon": "",
+            "starIcon": "http://webresource.c-ctrip.com/ResH5HotelOnline/R1/hotel_detail_icon_diamond3_20180824.png",
+            "hotelStatus": 0,
+            "hotelTypeTag": "",
+            "badgeUrl": "https://pages.c-ctrip.com/wireless-app/icons/ic_tag_silver_3x.png"
+          },
+          "picture": {
+            "list": [
+              "//dimg04.c-ctrip.com/images/1mc2212000chlzxpn8EDC_R_300_225_R5_Q70_D.jpg"
+            ],
+            "defaultUrl": "http://pic.tripcdn.com/picaresenglish/ibu/fe-hotel/images/nohotelsmall.4fc3abb4.png"
+          },
+          "position": {
+            "cityId": 30,
+            "area": "田贝/水贝珠宝城",
+            "poi": "距市中心直线8.8公里",
+            "lat": "22.56439",
+            "lng": "114.140467",
+            "address": "爱国路3023号",
+            "cityName": "深圳"
+          },
+          "transport": {},
+          "comment": {
+            "content": "768条点评"
+          },
+          "trace": {},
+          "promotion": [],
+          "isHotHotel": false,
+          "ctripTrace": {
+            "listRoomId": 0,
+            "listShadowId": 0,
+            "exchange": "1.0",
+            "currency": "CNY",
+            "productInfo": "00000b7EUqtZn7M3BGqOjPeTaTlM3hhwxlle0euzrhPLza5yATl3MEtU1iAhCSO/Q7lZJ7czk7+6Luymp\nazEw5jVnPlLuPMPimLkbo1Fwh7lzUBz/jcRs12AxpSXMzLhGRpqN8pETDwLoVwhe8qibvwh4vJ2F\n40LN0nh0ibFZnFrZ5ZYe+YDib3wAEbpo/Lx+UOYl+36pBzy5QZcPmHNj1EYELPKafoS69FpGS1Ek\nV1SpQoSQm/r23c1v7G9yXHgq0I0l4rSroEJ4hiYcicDmDFX07qUaGPc/d/o+CG1M57Wqnf71XLbE\nABvXRegc7nuNDmN9mLIAhLjTQ02sNGCU+xVzaTnHSUsweaaUCGPZ19M5FFfg63lIT3kj8308jMA+\nsv67bTn7CiyrXU0DDuOepvXs4m/x/qtQbwnmEyi8wzip20f6ePKqLxeyHNJr4LSiw+XaKtS4EBqc\nzAcqDNJERT5p5vyuHFfOVPe0SC2Fs53PM3MPZ8eNJ4v8GU4AQAAz7ESgmJxn7nc1YZXvR7EigU+k\n0Ii6G5SBEwAMf7R3EukFld0LAiuyl959GRIHM18pT9i8lcxKuq6seFl+YlAfv4narEFRrSLsXb1V\nn4XadX0fHeWlEnz25n2j4OgpcD1/SyFAT1ncraKgcJLu5ImerRNSBF9wXsna2oMh\n"
+          },
+          "passToNext": "00000IdepS3lHe6zsaCdD4hpVozQSqUtoMEmARbQlAyff+QI/x7YNH2QADQ2dH/yfhYMvPILXk2R5K3ObtmuCS87HZ6FRcc5i/GxKIR8r91t3YQCYYYZu2PWI7ZM2f6jgsO6hpr3affI7bNxUy5Ec99fupBX/3F+ndCpq0mVbj9m73X4KftnKH34SnvKjRGWa9gEdqYbNW8sgitrvs4ADIU9s8XGKVRyzdGMjSlf2axsQhU4KnPb6Z3I1Qpl2NuqvUzHb/xljG/77Vc8b2JvXm2Exow==",
+          "traceInfo": "{\"timestamp\":1726056623289,\"checkIn\":\"2024-09-28\",\"checkOut\":\"2024-10-02\",\"region\":\"MAINLAND\",\"cityId\":30,\"hotelId\":534924,\"groupId\":565,\"roomId\":1435657641,\"shadowId\":0,\"ismemberlogin\":true,\"uid\":\"DF418B7F\",\"infoSec\":false}",
+          "computeRoomPerson": 0,
+          "roomLayerInfo": {
+            "prePaidInfo": {
+              "list": [
+                {
+                  "type": "RoomPrice",
+                  "title": "特惠一口价",
+                  "content": "¥379.25",
+                  "adultAndChildrenInfo": ""
+                },
+                {
+                  "type": "Coupon",
+                  "title": "十亿豪补",
+                  "content": "- ¥15.50"
+                }
+              ]
+            },
+            "totalInfo": {
+              "price": "¥363.75",
+              "aboutEqualPrice": "¥364"
+            },
+            "taxInfo": {
+              "offlineTaxInfoDetailList": [],
+              "totalOfflineTaxPrice": ""
+            }
+          }
+        },
+        {
+          "member": {
+            "list": []
+          },
+          "score": {
+            "number": "4.2",
+            "desc": "",
+            "subScore": [
+              {
+                "number": "4.3",
+                "content": "环境"
+              },
+              {
+                "number": "4.3",
+                "content": "卫生"
+              },
+              {
+                "number": "4.3",
+                "content": "服务"
+              },
+              {
+                "number": "4.1",
+                "content": "设施"
+              }
+            ]
+          },
+          "money": {
+            "price": "333",
+            "priceNote": "每晚 (不含税)",
+            "discount": [],
+            "priceAndTax": "332.5",
+            "includeTaxText": "",
+            "includeTaxPrice": ""
+          },
+          "base": {
+            "starType": "DIAMOND",
+            "star": 3,
+            "hotelName": "维也纳酒店(深圳会展中心店)",
+            "hotelId": 1420095,
+            "bookUrl": "",
+            "book": "查看详情",
+            "badge": "23",
+            "badgeHover": "携程紧密合作酒店/供应商，提供实惠价格。",
+            "isFavor": false,
+            "hotelEnName": "",
+            "tags": [
+              "套房",
+              "洗衣房",
+              "免费客房WiFi",
+              "无烟楼层",
+              "免费停车",
+              "自助早餐"
+            ],
+            "isFullRoom": false,
+            "isPrimeHotel": false,
+            "encryptTags": [],
+            "p5Tags": [],
+            "p6Tags": [],
+            "person": 0,
+            "shaIcon": "",
+            "starIcon": "http://webresource.c-ctrip.com/ResH5HotelOnline/R1/hotel_detail_icon_diamond3_20180824.png",
+            "hotelStatus": 0,
+            "hotelTypeTag": "",
+            "badgeUrl": "https://pages.c-ctrip.com/wireless-app/icons/ic_tag_silver_3x.png"
+          },
+          "picture": {
+            "list": [
+              "//dimg04.c-ctrip.com/images/02057120005uk0is309CD_R_300_225_R5_Q70_D.jpg"
+            ],
+            "defaultUrl": "http://pic.tripcdn.com/picaresenglish/ibu/fe-hotel/images/nohotelsmall.4fc3abb4.png"
+          },
+          "position": {
+            "cityId": 30,
+            "area": "皇岗口岸/福田口岸",
+            "poi": "距市中心直线2公里",
+            "lat": "22.526618",
+            "lng": "114.064323",
+            "address": "金田路2014号",
+            "cityName": "深圳"
+          },
+          "transport": {},
+          "comment": {
+            "content": "1,692条点评"
+          },
+          "trace": {},
+          "promotion": [],
+          "isHotHotel": false,
+          "ctripTrace": {
+            "listRoomId": 0,
+            "listShadowId": 0,
+            "exchange": "1.0",
+            "currency": "CNY",
+            "productInfo": "00000b7EUqtZn7M0wMsi6PR1KqpKBck/oGDRZeuzrhPLza5yATl3MEtU1iAhCSO/Q7lZJ7czk7+6Luymp\nazEw5jVnPlLuPMPimLkbo1Fwh7lzUByZbdOrLREDVkSUf5NraAAq1bAHAhQxQSF2dr1oCpg0iDa7\n3uEEQGvkmyEfZHchUr+4LhWLe4Vp5W2rX6r2Ao3c6XrN55g9yJ1YUUcNRe9kvruKLVzpZTtq+Fbp\nnHQ3VDQAMr4IzGTvQYRX+RkXCOpFTR9EATgfWmHH6MyfAGfGFe79MBqxfZ4AWjgZaZ6pP+OJ40NK\nRvr8DtyA1b7yuodjr5XekXufRFCEpbsICLl5K4GMY8o3smZhOqbcp6oswIfOhriO4RE75tfUDiG2\nTR8M5QhSkNXaWy54TPg4DVvfHyBd3+GxBnWsiE50wEOtwlNDxibrc6k+L+wln9qJ6z8sVEDtlS3B\npzBr+K7EBlyM+9p9LHZA89s3z7PM2GTNwrA0ZJyyfkA+U+5oztH1tVcX\n"
+          },
+          "passToNext": "00000IdepS3lHe6zsaCdD4hpVozQSqUtoMEmARbQlAyff+QI/x7YNH2QADQ2dH/yfhYMvPILXk2R5K3ObtmuCS87HZ6FRcc5i/GxKIR8r91t3YQCYYYZu2PWI7ZM2f6jgsO6hpr3affI7bNxUy5Ec99fupBX/3F+ndCpq0mVbj9m73X4KftnKH34SnvKjRGWa9gEdEB1Y0NBCk1SENHmryEfPQtDcNbRGJH5BTEyb/+BeG5mLCujPVRdojPdr0dl9wad9sc+iAFOjsIqA39BZ86pkwA==",
+          "traceInfo": "{\"timestamp\":1726056623289,\"checkIn\":\"2024-09-28\",\"checkOut\":\"2024-10-02\",\"region\":\"MAINLAND\",\"cityId\":30,\"hotelId\":1420095,\"groupId\":565,\"roomId\":1580524026,\"shadowId\":0,\"ismemberlogin\":true,\"uid\":\"DF418B7F\",\"infoSec\":false}",
+          "computeRoomPerson": 0,
+          "roomLayerInfo": {
+            "prePaidInfo": {
+              "list": [
+                {
+                  "type": "RoomPrice",
+                  "title": "每间每晚均价",
+                  "content": "¥332.50",
+                  "adultAndChildrenInfo": ""
+                }
+              ]
+            },
+            "totalInfo": {
+              "price": "¥332.50",
+              "aboutEqualPrice": "¥333"
+            },
+            "taxInfo": {
+              "offlineTaxInfoDetailList": [],
+              "totalOfflineTaxPrice": ""
+            }
+          }
+        },
+        {
+          "member": {
+            "list": []
+          },
+          "score": {
+            "number": "4.8",
+            "desc": "棒",
+            "subScore": [
+              {
+                "number": "4.7",
+                "content": "环境"
+              },
+              {
+                "number": "4.8",
+                "content": "卫生"
+              },
+              {
+                "number": "4.8",
+                "content": "服务"
+              },
+              {
+                "number": "4.7",
+                "content": "设施"
+              }
+            ]
+          },
+          "money": {
+            "price": "401",
+            "priceDelete": "423",
+            "priceNote": "每晚 (不含税)",
+            "discount": [
+              {
+                "type": "1",
+                "list": [
+                  "已减¥22"
+                ]
+              }
+            ],
+            "priceAndTax": "400.75",
+            "includeTaxText": "",
+            "includeTaxPrice": ""
+          },
+          "base": {
+            "starType": "DIAMOND",
+            "star": 3,
+            "hotelName": "维也纳国际酒店(深圳罗湖水贝珠宝城店)",
+            "hotelId": 1426490,
+            "bookUrl": "",
+            "book": "查看详情",
+            "badge": "23",
+            "badgeHover": "携程紧密合作酒店/供应商，提供实惠价格。",
+            "isFavor": false,
+            "hotelEnName": "",
+            "tags": [
+              "机器人服务",
+              "健身室",
+              "套房",
+              "洗衣房",
+              "管家服务",
+              "行政酒廊",
+              "免费客房WiFi",
+              "免费停车",
+              "无烟楼层",
+              "会议厅"
+            ],
+            "isFullRoom": false,
+            "isPrimeHotel": false,
+            "encryptTags": [],
+            "p5Tags": [
+              {
+                "title": "优惠22",
+                "style": "0"
+              },
+              {
+                "title": "十亿豪补",
+                "style": "1"
+              }
+            ],
+            "p6Tags": [],
+            "person": 0,
+            "shaIcon": "",
+            "starIcon": "http://webresource.c-ctrip.com/ResH5HotelOnline/R1/hotel_detail_icon_diamond3_20180824.png",
+            "hotelStatus": 0,
+            "hotelTypeTag": "",
+            "badgeUrl": "https://pages.c-ctrip.com/wireless-app/icons/ic_tag_silver_3x.png",
+            "primeHotelIcon": "https://pages.c-ctrip.com/wireless-app/imgs/tagicon/PrimeHotel.png"
+          },
+          "picture": {
+            "list": [
+              "//dimg04.c-ctrip.com/images/1mc2b12000dwqgemtF3C1_R_300_225_R5_Q70_D.jpg"
+            ],
+            "defaultUrl": "http://pic.tripcdn.com/picaresenglish/ibu/fe-hotel/images/nohotelsmall.4fc3abb4.png"
+          },
+          "position": {
+            "cityId": 30,
+            "area": "田贝/水贝珠宝城",
+            "poi": "距市中心直线7.6公里",
+            "lat": "22.564615",
+            "lng": "114.127698",
+            "address": "田贝三路32号",
+            "cityName": "深圳"
+          },
+          "transport": {},
+          "comment": {
+            "content": "477条点评"
+          },
+          "trace": {},
+          "promotion": [],
+          "isHotHotel": false,
+          "ctripTrace": {
+            "listRoomId": 0,
+            "listShadowId": 0,
+            "exchange": "1.0",
+            "currency": "CNY",
+            "productInfo": "00000b7EUqtZn7M0wMsi6PR1KqsYME01aG9T9euzrhPLza5yATl3MEtU1iAhCSO/Q7lZJ7czk7+6Luymp\nazEw5jVnPlLuPMPimLkbo1Fwh7lzUByK9q7dJIQLICXMzLhGRpqN8pETDwLoVwja7OwMo1KT9J2F\n40LN0nh0ibFZnFrZ5ZYe+YDib3wAEQE7ncC81LAVT3yOPDZNWKWPoBwofyrMMeGzRqxWTmwX73hm\nTM2OvHsPmHNj1EYELPKafoS69FpGNq6ETo06uwepCJPP7gc1hS2OwK1PMiTEsQzLLu9Qb7o35aEr\nb2UaLHU8LhXi4gOxaaRSpyLPfhnc4NSIExfotV0tXIHkGsE4Ug+SyNVl+uvSAQv3nkkRLgAyvgjM\nZO9BM6pZDU6tbDI33r9bF8FY8BRjLmafH2XBIHJA1YzYewlBiezDQbCyi62l5RJUcVWrLLxhbzNf\nYAGeXphIll0EBx6+ojx+sLftWDMl+rYdfb4qoHjE2G/TUn0EsycJ72r47NendKh5h6SL+ulllJI9\ndzE3Angj6lzYCwGBWgZZbl83Ts602KHbfbaq+EJJX3AtPcc6/7XhEShSckI6D48tzdr3Wf7uF7BR\nExfh0C2V/+oXba1Ib5WQfepDxftf4hWHL5WdkxNN6m1RchK/yIVGOztWKlYzi9KGOPKDVofiDnE=\n"
+          },
+          "passToNext": "00000IdepS3lHe6zsaCdD4hpVozQSqUtoMEmARbQlAyff+QI/x7YNH2QADQ2dH/yfhYMvPILXk2R5K3ObtmuCS87HZ6FRcc5i/GxKIR8r91t3YQCYYYZu2PWI7ZM2f6jgsO6hpr3affI7bNw2IMeQ0hW3DpAfXqGQz1oPznji4MwUzjyONHPTyENDQ4UXWzwa4EC4Uo9b98bU5ornNO+d2atThnGKVRyzdGMjkSUWXWay6BRrK2djTl6Urpl2NuqvUzHb/xljG/77Vc8b2JvXm2Exow==",
+          "traceInfo": "{\"timestamp\":1726056623290,\"checkIn\":\"2024-09-28\",\"checkOut\":\"2024-10-02\",\"region\":\"MAINLAND\",\"cityId\":30,\"hotelId\":1426490,\"groupId\":565,\"roomId\":1580544352,\"shadowId\":0,\"ismemberlogin\":true,\"uid\":\"DF418B7F\",\"infoSec\":false}",
+          "computeRoomPerson": 0,
+          "roomLayerInfo": {
+            "prePaidInfo": {
+              "list": [
+                {
+                  "type": "RoomPrice",
+                  "title": "每间每晚均价",
+                  "content": "¥422.50",
+                  "adultAndChildrenInfo": ""
+                },
+                {
+                  "type": "Coupon",
+                  "title": "十亿豪补",
+                  "content": "- ¥21.75"
+                }
+              ]
+            },
+            "totalInfo": {
+              "price": "¥400.75",
+              "aboutEqualPrice": "¥401"
+            },
+            "taxInfo": {
+              "offlineTaxInfoDetailList": [],
+              "totalOfflineTaxPrice": ""
+            }
+          }
+        },
+        {
+          "member": {
+            "list": []
+          },
+          "score": {
+            "number": "4.8",
+            "desc": "棒",
+            "subScore": [
+              {
+                "number": "4.8",
+                "content": "环境"
+              },
+              {
+                "number": "4.8",
+                "content": "卫生"
+              },
+              {
+                "number": "4.8",
+                "content": "服务"
+              },
+              {
+                "number": "4.8",
+                "content": "设施"
+              }
+            ]
+          },
+          "money": {
+            "price": "211",
+            "priceDelete": "227",
+            "priceNote": "每晚 (不含税)",
+            "discount": [
+              {
+                "type": "1",
+                "list": [
+                  "已减¥16"
+                ]
+              }
+            ],
+            "priceAndTax": "210.5",
+            "includeTaxText": "",
+            "includeTaxPrice": ""
+          },
+          "base": {
+            "starType": "DIAMOND",
+            "star": 4,
+            "hotelName": "维也纳国际酒店(深圳国际会展中心南门店)",
+            "hotelId": 61660556,
+            "bookUrl": "",
+            "book": "查看详情",
+            "badge": "23",
+            "badgeHover": "携程紧密合作酒店/供应商，提供实惠价格。",
+            "isFavor": false,
+            "hotelEnName": "",
+            "tags": [
+              "会议厅",
+              "免费停车",
+              "洗衣房",
+              "棋牌房",
+              "自助早餐",
+              "管家服务",
+              "无烟楼层",
+              "免费客房WiFi",
+              "商务中心",
+              "免费行李寄存"
+            ],
+            "isFullRoom": false,
+            "isPrimeHotel": false,
+            "encryptTags": [],
+            "p5Tags": [
+              {
+                "title": "优惠16",
+                "style": "0"
+              },
+              {
+                "title": "十亿豪补",
+                "style": "1"
+              }
+            ],
+            "p6Tags": [],
+            "person": 0,
+            "shaIcon": "",
+            "starIcon": "http://webresource.c-ctrip.com/ResH5HotelOnline/R1/hotel_detail_icon_diamond4_20180824.png",
+            "hotelStatus": 0,
+            "hotelTypeTag": "",
+            "badgeUrl": "https://pages.c-ctrip.com/wireless-app/icons/ic_tag_silver_3x.png"
+          },
+          "picture": {
+            "list": [
+              "//dimg04.c-ctrip.com/images/1mc5812000cckznjs7327_R_300_225_R5_Q70_D.jpg"
+            ],
+            "defaultUrl": "http://pic.tripcdn.com/picaresenglish/ibu/fe-hotel/images/nohotelsmall.4fc3abb4.png"
+          },
+          "position": {
+            "cityId": 30,
+            "area": "深圳国际会展中心商圈",
+            "poi": "距市中心直线31公里",
+            "lat": "22.675545",
+            "lng": "113.792909",
+            "address": "福永街道新和社区永和路5-1至7-8号",
+            "cityName": "深圳"
+          },
+          "transport": {},
+          "comment": {
+            "content": "780条点评"
+          },
+          "banner": {
+            "type": 6,
+            "traceAdContextId": "H4sIAAAAAAAA/+NYcO17+zwjAUYDRg/GAMYoFkMrY4MEpgLWDka5CYyMMxiZAGMWEvYiAAAA"
+          },
+          "trace": {},
+          "promotion": [],
+          "isHotHotel": false,
+          "ctripTrace": {
+            "listRoomId": 0,
+            "listShadowId": 0,
+            "exchange": "1.0",
+            "currency": "CNY",
+            "productInfo": "00000b7EUqtZn7M0wMsi6PR1Kqk0ifmWy4I1HeuzrhPLza5yATl3MEtU1iAhCSO/Q7lZJ7czk7+6Luymp\nazEw5jVnPlLuPMPimLkbo1Fwh7lzUBwWcsT15dhkSkSUf5NraAAq1bAHAhQxQSGMeSb5AleqoBvw\nOEyvOlohjMHnE8oPaR/1XLbEABvXReoDqw43RDTaLv+nT/fWbOnqfjXRcro4Qyabqk1YXWmkTxf4\nkR5sJnce+YDib3wAEWKZcrx1UUkIWPQXYo/QmMHymn6EuvRaRkqjOzZibnD+ZRQ487SA/t/hs0as\nVk5sF2mrePlP3kb68m7eGwpLVrf8Y4BNPtE2Xy364jzk8Djs+vEqDuG6RrFS8Y/3GapAVLL2OIpf\niLUcdNHV1Arac51Yu7RZIb+nsyKPvmG93vbAvVn06ESqWbL75ZfQCXTIJA1Ul6ItGroYKfy0Mz5/\neXqJ40NKRvr8DtyA1b7yuodjr5XekXufRFCEpbsICLl5K4GMY8o3smZhOqbcp6oswIfOhriO4RE7\n5tfUDiG2TR8M5QhSkNXaWy54TPg4DVvfHyBd3+GxBnWsiE50wEOtwlNDxibrc6k+L+wln9qJ6z8s\nVEDtlS3BpzBr+K7EBlyM+6BHgIHE37gOz7PM2GTNwrA0ZJyyfkA+U+5oztH1tVcX\n"
+          },
+          "passToNext": "00000IdepS3lHe6zsaCdD4hpVozQSqUtoMEmARbQlAyff+QI/x7YNH2QADQ2dH/yfhYMvPILXk2R5K3ObtmuCS87HZ6FRcc5i/GxKIR8r91t3YQCYYYZu2PWI7ZM2f6jgsO6hpr3affI7bNy4Ol3bQ5RWqRX/3F+ndCpq0mVbj9m73X4KftnKH34SnvKjRGWa9gEdo2Xyp4xvinHjfqzoNWY6hg24Uoy0FTCdx1CbavziD+Rtduunf+2U5Fv4D1/kWIvoDTAsWWJXYcz1QoNzOxEEXw==",
+          "traceInfo": "{\"timestamp\":1726056623291,\"checkIn\":\"2024-09-28\",\"checkOut\":\"2024-10-02\",\"region\":\"MAINLAND\",\"cityId\":30,\"hotelId\":61660556,\"groupId\":565,\"roomId\":1580540196,\"shadowId\":0,\"ismemberlogin\":true,\"uid\":\"DF418B7F\",\"infoSec\":false}",
+          "computeRoomPerson": 0,
+          "roomLayerInfo": {
+            "prePaidInfo": {
+              "list": [
+                {
+                  "type": "RoomPrice",
+                  "title": "每间每晚均价",
+                  "content": "¥227",
+                  "adultAndChildrenInfo": ""
+                },
+                {
+                  "type": "Coupon",
+                  "title": "十亿豪补",
+                  "content": "- ¥16.50"
+                }
+              ]
+            },
+            "totalInfo": {
+              "price": "¥210.50",
+              "aboutEqualPrice": "¥211"
+            },
+            "taxInfo": {
+              "offlineTaxInfoDetailList": [],
+              "totalOfflineTaxPrice": ""
+            }
+          }
+        },
+        {
+          "member": {
+            "list": []
+          },
+          "score": {
+            "number": "4.6",
+            "desc": "好",
+            "subScore": [
+              {
+                "number": "4.6",
+                "content": "环境"
+              },
+              {
+                "number": "4.7",
+                "content": "卫生"
+              },
+              {
+                "number": "4.6",
+                "content": "服务"
+              },
+              {
+                "number": "4.6",
+                "content": "设施"
+              }
+            ]
+          },
+          "money": {
+            "price": "291",
+            "priceDelete": "303",
+            "priceNote": "每晚 (不含税)",
+            "discount": [
+              {
+                "type": "1",
+                "list": [
+                  "已减¥12"
+                ]
+              }
+            ],
+            "priceAndTax": "290.5",
+            "includeTaxText": "",
+            "includeTaxPrice": ""
+          },
+          "base": {
+            "starType": "DIAMOND",
+            "star": 3,
+            "hotelName": "维也纳酒店(深圳盐田港鸿安围地铁站店)",
+            "hotelId": 7934598,
+            "bookUrl": "",
+            "book": "查看详情",
+            "badge": "23",
+            "badgeHover": "携程紧密合作酒店/供应商，提供实惠价格。",
+            "isFavor": false,
+            "hotelEnName": "",
+            "tags": [
+              "免费停车",
+              "棋牌室",
+              "洗衣房",
+              "套房",
+              "商务中心",
+              "无烟楼层",
+              "欧式风格",
+              "干衣机",
+              "免费客房WiFi",
+              "游戏室"
+            ],
+            "isFullRoom": false,
+            "isPrimeHotel": false,
+            "encryptTags": [],
+            "p5Tags": [
+              {
+                "title": "优惠12",
+                "style": "0"
+              },
+              {
+                "title": "十亿豪补",
+                "style": "1"
+              }
+            ],
+            "p6Tags": [],
+            "person": 0,
+            "shaIcon": "",
+            "starIcon": "http://webresource.c-ctrip.com/ResH5HotelOnline/R1/hotel_detail_icon_diamond3_20180824.png",
+            "hotelStatus": 0,
+            "hotelTypeTag": "",
+            "badgeUrl": "https://pages.c-ctrip.com/wireless-app/icons/ic_tag_silver_3x.png"
+          },
+          "picture": {
+            "list": [
+              "//dimg04.c-ctrip.com/images/20010k000000b8m1yA1CF_R_300_225_R5_Q70_D.jpg"
+            ],
+            "defaultUrl": "http://pic.tripcdn.com/picaresenglish/ibu/fe-hotel/images/nohotelsmall.4fc3abb4.png"
+          },
+          "position": {
+            "cityId": 30,
+            "area": "盐田区政府/沙头角",
+            "poi": "距市中心直线21.5公里",
+            "lat": "22.591905",
+            "lng": "114.260488",
+            "address": "北山道148号",
+            "cityName": "深圳"
+          },
+          "transport": {},
+          "comment": {
+            "content": "676条点评"
+          },
+          "trace": {},
+          "promotion": [],
+          "isHotHotel": false,
+          "ctripTrace": {
+            "listRoomId": 0,
+            "listShadowId": 0,
+            "exchange": "1.0",
+            "currency": "CNY",
+            "productInfo": "00000b7EUqtZn7M0wMsi6PR1KqoKzsdOfQTBIeuzrhPLza5yATl3MEtU1iAhCSO/Q7lZJ7czk7+6Luymp\nazEw5jVnPlLuPMPimLkbo1Fwh7lzUBwUuIDaTCisJ0SUf5NraAAq1bAHAhQxQSHDC4dPk7EsXRvw\nOEyvOlohjMHnE8oPaR/1XLbEABvXRdmdQ/NO+kmjLv+nT/fWbOnqfjXRcro4Qyabqk1YXWmkTxf4\nkR5sJnce+YDib3wAEWKZcrx1UUkIWPQXYo/QmMHymn6EuvRaRkqjOzZibnD+ZRQ487SA/t/hs0as\nVk5sF2mrePlP3kb68m7eGwpLVrf8Y4BNPtE2Xy364jzk8Djs+vEqDuG6RrFS8Y/3GapAVLL2OIpf\niLUcdNHV1Arac51Yu7RZIb+nsyKPvmG93vbAUxcAySm1nD+HDTpDcATR1fqLbQy8XZVRGtHHdFb/\ne+YrpwtghENw5h9bp/mvka+satBHDqMwTs+ZdNESLuN26d/IW1JiD3ugrmnjuKA1RqJQfpldW6sq\naDPyOOdIPtcOaM7u+Yn8tuBen00PPfA3moblUE+fB/tpCgqI9z1T4R2MThDtKbNfqZHcTGxYrH+A\nIWB7VeUgOkKh3MMcbk3eMqJZfvYWyWuqhTho/+Pai9E7+MeHFsioQbX+znYBtTQB\n"
+          },
+          "passToNext": "00000IdepS3lHe6zsaCdD4hpVozQSqUtoMEmARbQlAyff+QI/x7YNH2QADQ2dH/yfhYMvPILXk2R5K3ObtmuCS87HZ6FRcc5i/GxKIR8r91t3YQCYYYZu2PWI7ZM2f6jgsO6hpr3affI7bNy4Ol3bQ5RWqRX/3F+ndCpq0mVbj9m73X4KftnKH34SnvKjRGWa9gEdY5rsgqO3uL3DuwkQbFDep9DcNbRGJH5B8GB5257MdmNWNJ7mNxBeKvdr0dl9wad9sc+iAFOjsIqA39BZ86pkwA==",
+          "traceInfo": "{\"timestamp\":1726056623291,\"checkIn\":\"2024-09-28\",\"checkOut\":\"2024-10-02\",\"region\":\"MAINLAND\",\"cityId\":30,\"hotelId\":7934598,\"groupId\":565,\"roomId\":1580974762,\"shadowId\":0,\"ismemberlogin\":true,\"uid\":\"DF418B7F\",\"infoSec\":false}",
+          "computeRoomPerson": 0,
+          "roomLayerInfo": {
+            "prePaidInfo": {
+              "list": [
+                {
+                  "type": "RoomPrice",
+                  "title": "每间每晚均价",
+                  "content": "¥303",
+                  "adultAndChildrenInfo": ""
+                },
+                {
+                  "type": "Coupon",
+                  "title": "十亿豪补",
+                  "content": "- ¥12.50"
+                }
+              ]
+            },
+            "totalInfo": {
+              "price": "¥290.50",
+              "aboutEqualPrice": "¥291"
+            },
+            "taxInfo": {
+              "offlineTaxInfoDetailList": [],
+              "totalOfflineTaxPrice": ""
+            }
+          }
+        },
+        {
+          "member": {
+            "list": []
+          },
+          "score": {
+            "number": "4.7",
+            "desc": "很好",
+            "subScore": [
+              {
+                "number": "4.7",
+                "content": "环境"
+              },
+              {
+                "number": "4.7",
+                "content": "卫生"
+              },
+              {
+                "number": "4.7",
+                "content": "服务"
+              },
+              {
+                "number": "4.7",
+                "content": "设施"
+              }
+            ]
+          },
+          "money": {
+            "price": "356",
+            "priceDelete": "361",
+            "priceNote": "每晚 (不含税)",
+            "discount": [
+              {
+                "type": "1",
+                "list": [
+                  "已减¥5"
+                ]
+              }
+            ],
+            "priceAndTax": "356",
+            "includeTaxText": "",
+            "includeTaxPrice": ""
+          },
+          "base": {
+            "starType": "DIAMOND",
+            "star": 3,
+            "hotelName": "维也纳酒店(深圳宝安中心翻身地铁站店)",
+            "hotelId": 842711,
+            "bookUrl": "",
+            "book": "查看详情",
+            "badge": "23",
+            "badgeHover": "携程紧密合作酒店/供应商，提供实惠价格。",
+            "isFavor": false,
+            "hotelEnName": "",
+            "tags": [
+              "免费停车",
+              "影音房",
+              "无烟楼层",
+              "免费行李寄存",
+              "免费客房WiFi",
+              "洗衣服务",
+              "自助早餐"
+            ],
+            "isFullRoom": false,
+            "isPrimeHotel": false,
+            "encryptTags": [],
+            "p5Tags": [
+              {
+                "title": "优惠5",
+                "style": "0"
+              },
+              {
+                "title": "满减券",
+                "style": "1"
+              },
+              {
+                "title": "特惠一口价",
+                "style": "1"
+              }
+            ],
+            "p6Tags": [],
+            "person": 0,
+            "shaIcon": "",
+            "starIcon": "http://webresource.c-ctrip.com/ResH5HotelOnline/R1/hotel_detail_icon_diamond3_20180824.png",
+            "hotelStatus": 0,
+            "hotelTypeTag": "",
+            "badgeUrl": "https://pages.c-ctrip.com/wireless-app/icons/ic_tag_silver_3x.png",
+            "primeHotelIcon": "https://pages.c-ctrip.com/wireless-app/imgs/tagicon/PrimeHotel.png"
+          },
+          "picture": {
+            "list": [
+              "//dimg04.c-ctrip.com/images/02040120009gkz7xa1CEF_R_300_225_R5_Q70_D.jpg"
+            ],
+            "defaultUrl": "http://pic.tripcdn.com/picaresenglish/ibu/fe-hotel/images/nohotelsmall.4fc3abb4.png"
+          },
+          "position": {
+            "cityId": 30,
+            "area": "宝安商业区",
+            "poi": "距市中心直线16.7公里",
+            "lat": "22.558665",
+            "lng": "113.896236",
+            "address": "创业一路44区翻身路91号",
+            "cityName": "深圳"
+          },
+          "transport": {},
+          "comment": {
+            "content": "1,388条点评"
+          },
+          "trace": {},
+          "promotion": [],
+          "isHotHotel": false,
+          "ctripTrace": {
+            "listRoomId": 0,
+            "listShadowId": 0,
+            "exchange": "1.0",
+            "currency": "CNY",
+            "productInfo": "00000b7EUqtZn7M0wMsi6PR1KqoKxcigmEgUbeuzrhPLza5yATl3MEtU1iAhCSO/Q7lZJ7czk7+6Luymp\nazEw5jVnPlLuPMPimLkbo1Fwh7lzUBwDTLf/iJx4JkSUf5NraAAq1bAHAhQxQSFw3IBEhRH8Vhvw\nOEyvOlohjMHnE8oPaR/1XLbEABvXRbQFRkz3giGHwNqRcv85aSb1XLbEABvXRQf8oG6CE3XoY8qy\n/ho3VZkNNGbUrZOpMghe1z9zVfWKF36iUJ+rtQVimXK8dVFJCJPvGeHY8OXC6n410XK6OEOHs3ha\nQuIw5P3DIA2DukOI0OxfSC9uTGBHVKLXhyJkiTJPJiUj9o3Iy74cx876AzoyTyYlI/aNyF61x9D9\nUM0ln9qzFbrZlETBtl45LqVYkHY+Qx5UaElb+HpRbaTbDVxXt2tW9VQ0GWTbXM2D16iwOgMmSXes\n1OIevqI8frC37VgzJfq2HX2+KqB4xNhv01J9BLMnCe9q+OzXp3SoeYeki/rpZZSSPXcxNwJ4I+pc\n2AsBgVoGWW5fN07OtNih2322qvhCSV9wLT3HOv+14REoUnJCOg+PLc3a91n+7hewURMX4dAtlf/q\nF22tSG+VkH2USACw4ff9Ai+VnZMTTeptUXISv8iFRjs7VipWM4vShjjyg1aH4g5x\n"
+          },
+          "passToNext": "00000IdepS3lHe6zsaCdD4hpVozQSqUtoMEmARbQlAyff+QI/x7YNH2QADQ2dH/yfhYMvPILXk2R5K3ObtmuCS87HZ6FRcc5i/GxKIR8r91t3YQCYYYZu2PWI7ZM2f6jgsO6hpr3affI7bNwRGyotqQKPLRX/3F+ndCpq0mVbj9m73X4KftnKH34SnvKjRGWa9gEdGONCx2ktrM0uuAkWuZw1D3GKVRyzdGMjsVwBhSMSftm5P7im1M9og5l2NuqvUzHb/xljG/77Vc8b2JvXm2Exow==",
+          "traceInfo": "{\"timestamp\":1726056623292,\"checkIn\":\"2024-09-28\",\"checkOut\":\"2024-10-02\",\"region\":\"MAINLAND\",\"cityId\":30,\"hotelId\":842711,\"groupId\":565,\"roomId\":1502900345,\"shadowId\":0,\"ismemberlogin\":true,\"uid\":\"DF418B7F\",\"infoSec\":false}",
+          "computeRoomPerson": 0,
+          "roomLayerInfo": {
+            "prePaidInfo": {
+              "list": [
+                {
+                  "type": "RoomPrice",
+                  "title": "特惠一口价",
+                  "content": "¥361",
+                  "adultAndChildrenInfo": ""
+                },
+                {
+                  "type": "Coupon",
+                  "title": "满减券",
+                  "content": "- ¥5"
+                }
+              ]
+            },
+            "totalInfo": {
+              "price": "¥356"
+            },
+            "taxInfo": {
+              "offlineTaxInfoDetailList": [],
+              "totalOfflineTaxPrice": ""
+            }
+          }
+        },
+        {
+          "member": {
+            "list": []
+          },
+          "score": {
+            "number": "4.7",
+            "desc": "很好",
+            "subScore": [
+              {
+                "number": "4.8",
+                "content": "环境"
+              },
+              {
+                "number": "4.7",
+                "content": "卫生"
+              },
+              {
+                "number": "4.7",
+                "content": "服务"
+              },
+              {
+                "number": "4.6",
+                "content": "设施"
+              }
+            ]
+          },
+          "money": {
+            "price": "428",
+            "priceDelete": "504",
+            "priceNote": "每晚 (不含税)",
+            "discount": [
+              {
+                "type": "1",
+                "list": [
+                  "已减¥76"
+                ]
+              }
+            ],
+            "priceAndTax": "428",
+            "includeTaxText": "",
+            "includeTaxPrice": ""
+          },
+          "base": {
+            "starType": "DIAMOND",
+            "star": 3,
+            "hotelName": "维也纳酒店(深圳梅林店)",
+            "hotelId": 111841076,
+            "bookUrl": "",
+            "book": "查看详情",
+            "badge": "23",
+            "badgeHover": "携程紧密合作酒店/供应商，提供实惠价格。",
+            "isFavor": false,
+            "hotelEnName": "",
+            "tags": [
+              "免费停车",
+              "会议厅",
+              "洗衣房",
+              "健身室",
+              "情侣房",
+              "套房",
+              "免费行李寄存",
+              "管家服务",
+              "干衣机",
+              "免费客房WiFi"
+            ],
+            "isFullRoom": false,
+            "isPrimeHotel": false,
+            "encryptTags": [],
+            "p5Tags": [
+              {
+                "title": "优惠76",
+                "style": "0"
+              },
+              {
+                "title": "新人首单价",
+                "style": "1"
+              }
+            ],
+            "p6Tags": [],
+            "person": 0,
+            "shaIcon": "",
+            "starIcon": "http://webresource.c-ctrip.com/ResH5HotelOnline/R1/hotel_detail_icon_diamond3_20180824.png",
+            "hotelStatus": 0,
+            "hotelTypeTag": "",
+            "badgeUrl": "https://pages.c-ctrip.com/wireless-app/icons/ic_tag_silver_3x.png",
+            "primeHotelIcon": "https://pages.c-ctrip.com/wireless-app/imgs/tagicon/PrimeHotel.png"
+          },
+          "picture": {
+            "list": [
+              "//dimg04.c-ctrip.com/images/1mc6a12000c928t80D47C_R_300_225_R5_Q70_D.jpg"
+            ],
+            "defaultUrl": "http://pic.tripcdn.com/picaresenglish/ibu/fe-hotel/images/nohotelsmall.4fc3abb4.png"
+          },
+          "position": {
+            "cityId": 30,
+            "area": "莲花山/梅林",
+            "poi": "距市中心直线2.8公里",
+            "lat": "22.56823",
+            "lng": "114.058675",
+            "address": "梅林街道中康路35号",
+            "cityName": "深圳"
+          },
+          "transport": {},
+          "comment": {
+            "content": "1,072条点评"
+          },
+          "trace": {},
+          "promotion": [],
+          "isHotHotel": false,
+          "ctripTrace": {
+            "listRoomId": 0,
+            "listShadowId": 0,
+            "exchange": "1.0",
+            "currency": "CNY",
+            "productInfo": "00000b7EUqtZn7M3BGqOjPeTaTjrCZL2t2GCTeuzrhPLza5yATl3MEtU1iAhCSO/Q7lZJ7czk7+6Luymp\nazEw5jVnPlLuPMPimLkbo1Fwh7lzUByNZXuPft0eikSUf5NraAAq1bAHAhQxQSFyX5n+xE/DRBvw\nOEyvOlohjMHnE8oPaR/1XLbEABvXRVwl6BKmNAyBLv+nT/fWbOnqfjXRcro4Qyabqk1YXWmkTxf4\nkR5sJnce+YDib3wAEWKZcrx1UUkIWPQXYo/QmMHymn6EuvRaRkqjOzZibnD+ZRQ487SA/t/hs0as\nVk5sF2mrePlP3kb68m7eGwpLVrf8Y4BNPtE2XzsjEGV0X8nqaqKjt1jaPNFznhM8fdBDjPDqwBRK\n+8mpbNYZ4qUOf9il+Z0BQRj/nXYk43KK41s2/ENXukxHR+n+50fwKxo5u2Z+Q42BDHC9HUusmVQ1\nA5w9KgEo5wHnijV4ECuAwuYBolRH0a20qXuJHpOIsE1i0yPTcY9yAg5dvo6a+M677oAZmdYDTE/f\nVN53M4nHkwF38MvXD7Koffivb5R+gZK/oCUJ/MABfhAfQv2rwaTjBJit7iKfbRMJ6AxDC78FkpEA\nuvjgrt93wWeXG+Xo3YqGatv7QTz82NZZ4ysLjqvCDeU/tJT7iTmpi4N5IPeMy2kc\n"
+          },
+          "passToNext": "00000IdepS3lHe6zsaCdD4hpVozQSqUtoMEmARbQlAyff+QI/x7YNH2QADQ2dH/yfhYMvPILXk2R5K3ObtmuCS87HZ6FRcc5i/GxKIR8r91t3YQCYYYZu2PWI7ZM2f6jgsO6hpr3affI7bNxiZhad0kEnZRX/3F+ndCpq0mVbj9m73X4KftnKH34SnvKjRGWa9gEdEB1Y0NBCk1TN5aQYDFAcyMoEfNZvf4GyqhRmQa3dCpzZzIzE5p7Ym4kLrxrls0M0Gl28YzjKjf4Y1g91tL5x3By/G9d1Bprz",
+          "traceInfo": "{\"timestamp\":1726056623293,\"checkIn\":\"2024-09-28\",\"checkOut\":\"2024-10-02\",\"region\":\"MAINLAND\",\"cityId\":30,\"hotelId\":111841076,\"groupId\":565,\"roomId\":1462706984,\"shadowId\":0,\"ismemberlogin\":true,\"uid\":\"DF418B7F\",\"infoSec\":false}",
+          "computeRoomPerson": 0,
+          "roomLayerInfo": {
+            "prePaidInfo": {
+              "list": [
+                {
+                  "type": "RoomPrice",
+                  "title": "每间每晚均价",
+                  "content": "¥504",
+                  "adultAndChildrenInfo": ""
+                },
+                {
+                  "type": "Coupon",
+                  "title": "新人首单价",
+                  "content": "- ¥76"
+                }
+              ]
+            },
+            "totalInfo": {
+              "price": "¥428"
+            },
+            "taxInfo": {
+              "offlineTaxInfoDetailList": [],
+              "totalOfflineTaxPrice": ""
+            }
+          }
+        },
+        {
+          "member": {
+            "list": []
+          },
+          "score": {
+            "number": "4.5",
+            "desc": "不错",
+            "subScore": [
+              {
+                "number": "4.5",
+                "content": "环境"
+              },
+              {
+                "number": "4.5",
+                "content": "卫生"
+              },
+              {
+                "number": "4.5",
+                "content": "服务"
+              },
+              {
+                "number": "4.4",
+                "content": "设施"
+              }
+            ]
+          },
+          "money": {
+            "price": "356",
+            "priceNote": "每晚 (不含税)",
+            "discount": [],
+            "priceAndTax": "355.5",
+            "includeTaxText": "",
+            "includeTaxPrice": ""
+          },
+          "base": {
+            "starType": "DIAMOND",
+            "star": 3,
+            "hotelName": "维也纳酒店(深圳罗湖口岸火车站店)",
+            "hotelId": 447883,
+            "bookUrl": "",
+            "book": "查看详情",
+            "badge": "23",
+            "badgeHover": "携程紧密合作酒店/供应商，提供实惠价格。",
+            "isFavor": false,
+            "hotelEnName": "",
+            "tags": [
+              "机器人服务",
+              "管家服务",
+              "无烟楼层",
+              "套房",
+              "免费客房WiFi"
+            ],
+            "isFullRoom": false,
+            "isPrimeHotel": false,
+            "encryptTags": [],
+            "p5Tags": [
+              {
+                "title": "会员专享",
+                "style": "1"
+              }
+            ],
+            "p6Tags": [],
+            "person": 0,
+            "shaIcon": "",
+            "starIcon": "http://webresource.c-ctrip.com/ResH5HotelOnline/R1/hotel_detail_icon_diamond3_20180824.png",
+            "hotelStatus": 0,
+            "hotelTypeTag": "",
+            "badgeUrl": "https://pages.c-ctrip.com/wireless-app/icons/ic_tag_silver_3x.png"
+          },
+          "picture": {
+            "list": [
+              "//dimg04.c-ctrip.com/images/1mc2y12000ardaih035D7_R_300_225_R5_Q70_D.jpg"
+            ],
+            "defaultUrl": "http://pic.tripcdn.com/picaresenglish/ibu/fe-hotel/images/nohotelsmall.4fc3abb4.png"
+          },
+          "position": {
+            "cityId": 30,
+            "area": "罗湖口岸/火车站",
+            "poi": "距市中心直线6.4公里",
+            "lat": "22.535067",
+            "lng": "114.119198",
+            "address": "人民南路1068号",
+            "cityName": "深圳"
+          },
+          "transport": {},
+          "comment": {
+            "content": "2,028条点评"
+          },
+          "trace": {},
+          "promotion": [],
+          "isHotHotel": false,
+          "ctripTrace": {
+            "listRoomId": 0,
+            "listShadowId": 0,
+            "exchange": "1.0",
+            "currency": "CNY",
+            "productInfo": "00000b7EUqtZn7M0MGOIU4nVxx+eJrFsMT0cBeuzrhPLza5yATl3MEtU1iAhCSO/Q7lZJ7czk7+6Luymp\nazEw5jVnPlLuPMPimLkbo1Fwh7lzUBwlHeANs2fu3kSUf5NraAAq1bAHAhQxQSGkh5vzRqlKTja7\n3uEEQGvkmyEfZHchUr+4LhWLe4Vp5dsBTe8wS1D/WD5+FVvBF6TBx5VY4C7AaCfstrb77ym+ADe2\njdpgmhqWLBDC2nBmWkS0o70dt5FA54msWwxPRwEQjaGge/hxVavocr6DRz5wD+ncg6mKtRMeZFPs\naJ8BP36ZmWmw0GZXuU6Ot1+kX8hu/2dV1YR7HtaZr1sQhxaR9mbfSA+G3GF5o2+z+kamdNo9GBxO\n1TW7/ssirw/3aYi/jbQShEzj3kOOmuRIMCyvNlq1qdipGhUvwT8pnbaCBEvzW136jkSsl3+J9uTg\nGFdveVJTxlzPeEl4toXEoyK1ChRCiy4duEj+XNoiOLaWbzZUyy6Eu8VD\n"
+          },
+          "passToNext": "00000IdepS3lHe6zsaCdD4hpVozQSqUtoMEmARbQlAyff+QI/x7YNH2QADQ2dH/yfhYMvPILXk2R5K3ObtmuCS87HZ6FRcc5i/GxKIR8r91t3YQCYYYZu2PWI7ZM2f6jgsO6hpr3affI7bNxiZhad0kEnZRX/3F+ndCpq0mVbj9m73X4KftnKH34SnvKjRGWa9gEdNro3OqVXYTmvdTYht/rAoXGKVRyzdGMjxkPylcvmcgT/N97CcZtmgJl2NuqvUzHb/xljG/77Vc8b2JvXm2Exow==",
+          "traceInfo": "{\"timestamp\":1726056623293,\"checkIn\":\"2024-09-28\",\"checkOut\":\"2024-10-02\",\"region\":\"MAINLAND\",\"cityId\":30,\"hotelId\":447883,\"groupId\":565,\"roomId\":1028058920,\"shadowId\":0,\"ismemberlogin\":true,\"uid\":\"DF418B7F\",\"infoSec\":false}",
+          "computeRoomPerson": 0,
+          "roomLayerInfo": {
+            "prePaidInfo": {
+              "list": [
+                {
+                  "type": "RoomPrice",
+                  "title": "会员专享",
+                  "content": "¥355.50",
+                  "adultAndChildrenInfo": ""
+                }
+              ]
+            },
+            "totalInfo": {
+              "price": "¥355.50",
+              "aboutEqualPrice": "¥356"
+            },
+            "taxInfo": {
+              "offlineTaxInfoDetailList": [],
+              "totalOfflineTaxPrice": ""
+            }
+          }
+        },
+        {
+          "member": {
+            "list": []
+          },
+          "score": {
+            "number": "4.7",
+            "desc": "很好",
+            "subScore": [
+              {
+                "number": "4.7",
+                "content": "环境"
+              },
+              {
+                "number": "4.7",
+                "content": "卫生"
+              },
+              {
+                "number": "4.7",
+                "content": "服务"
+              },
+              {
+                "number": "4.6",
+                "content": "设施"
+              }
+            ]
+          },
+          "money": {
+            "price": "304",
+            "priceDelete": "309",
+            "priceNote": "每晚 (不含税)",
+            "discount": [
+              {
+                "type": "1",
+                "list": [
+                  "已减¥5"
+                ]
+              }
+            ],
+            "priceAndTax": "304",
+            "includeTaxText": "",
+            "includeTaxPrice": ""
+          },
+          "base": {
+            "starType": "DIAMOND",
+            "star": 4,
+            "hotelName": "维也纳国际酒店(深圳前海欢乐港湾店)",
+            "hotelId": 3725392,
+            "bookUrl": "",
+            "book": "查看详情",
+            "badge": "23",
+            "badgeHover": "携程紧密合作酒店/供应商，提供实惠价格。",
+            "isFavor": false,
+            "hotelEnName": "",
+            "tags": [
+              "健身室",
+              "洗衣房",
+              "会议厅",
+              "茶室",
+              "免费停车",
+              "棋牌房",
+              "欧式风格",
+              "自助早餐",
+              "无烟楼层",
+              "亲子主题房"
+            ],
+            "isFullRoom": false,
+            "isPrimeHotel": false,
+            "encryptTags": [],
+            "p5Tags": [
+              {
+                "title": "优惠5",
+                "style": "0"
+              },
+              {
+                "title": "满减券",
+                "style": "1"
+              },
+              {
+                "title": "会员专享",
+                "style": "1"
+              }
+            ],
+            "p6Tags": [],
+            "person": 0,
+            "shaIcon": "",
+            "starIcon": "http://webresource.c-ctrip.com/ResH5HotelOnline/R1/hotel_detail_icon_diamond4_20180824.png",
+            "hotelStatus": 0,
+            "hotelTypeTag": "",
+            "badgeUrl": "https://pages.c-ctrip.com/wireless-app/icons/ic_tag_silver_3x.png"
+          },
+          "picture": {
+            "list": [
+              "//dimg04.c-ctrip.com/images/1mc0w12000cdma5ga68FF_R_300_225_R5_Q70_D.jpg"
+            ],
+            "defaultUrl": "http://pic.tripcdn.com/picaresenglish/ibu/fe-hotel/images/nohotelsmall.4fc3abb4.png"
+          },
+          "position": {
+            "cityId": 30,
+            "area": "宝安商业区",
+            "poi": "距市中心直线19.9公里",
+            "lat": "22.559939",
+            "lng": "113.865324",
+            "address": "西乡兴业路8号",
+            "cityName": "深圳"
+          },
+          "transport": {},
+          "comment": {
+            "content": "2,156条点评"
+          },
+          "banner": {
+            "type": 6,
+            "traceAdContextId": "H4sIAAAAAAAA/+NYcO17+zwjAUYDRg/GAMYoFkMrY4MEpgLWDka5CYyMMxiZAGMWEvYiAAAA"
+          },
+          "trace": {},
+          "promotion": [],
+          "isHotHotel": false,
+          "ctripTrace": {
+            "listRoomId": 0,
+            "listShadowId": 0,
+            "exchange": "1.0",
+            "currency": "CNY",
+            "productInfo": "00000b7EUqtZn7M1w7k6sgvTN8Ny/un7APopgeuzrhPLza5yATl3MEtU1iAhCSO/Q7lZJ7czk7+6Luymp\nazEw5jVnPlLuPMPimLkbo1Fwh7lzUBwtzW2BRgfTzESUf5NraAAq1bAHAhQxQSEoow/RupWRPxvw\nOEyvOlohjMHnE8oPaR/1XLbEABvXRbQFRkz3giGHwNqRcv85aSb1XLbEABvXRQf8oG6CE3XoY8qy\n/ho3VZkNNGbUrZOpMghe1z9zVfWKF36iUJ+rtQVimXK8dVFJCJPvGeHY8OXC6n410XK6OEOHs3ha\nQuIw5P3DIA2DukOI0OxfSC9uTGBHVKLXhyJkiTJPJiUj9o3Iy74cx876AzoyTyYlI/aNyF61x9D9\nUM0ln9qzFbrZlETBtl45LqVYkBU3VxQ+ZSFbFd8xr48szclXt2tW9VQ0GfOCZQsl8JqBA9+ISnES\n3EoHmnVV7Yw/X22Scy/OcUc23UCy4mOrY5+oAwil8O5NutQFpU/0jFThLNClFIg3+RMvwT8pnbaC\nBDptCGIG1XZlMaUXn0IxsDYvwBCFvXLEitV+flQNxR8ilsOrHRTxyhAxNwJ4I+pc2Oz0Nq5GVhlr\nJqsTFglj3QlgpPqBTL3SvwJEwBpYaPlrgqoTPyjYkmJBDlawISYb+wRs3nfkQOyA\n"
+          },
+          "passToNext": "00000IdepS3lHe6zsaCdD4hpVozQSqUtoMEmARbQlAyff+QI/x7YNH2QADQ2dH/yfhYMvPILXk2R5K3ObtmuCS87HZ6FRcc5i/GxKIR8r91t3YQCYYYZu2PWI7ZM2f6jgsO6hpr3affI7bNxiZhad0kEnZRX/3F+ndCpq0mVbj9m73X4KftnKH34SnvKjRGWa9gEdM3yn/9otB/FcvtVQblmLjdDcNbRGJH5BSdb3RjfZs79q/fo6jeE+CPdr0dl9wad9sc+iAFOjsIqA39BZ86pkwA==",
+          "traceInfo": "{\"timestamp\":1726056623294,\"checkIn\":\"2024-09-28\",\"checkOut\":\"2024-10-02\",\"region\":\"MAINLAND\",\"cityId\":30,\"hotelId\":3725392,\"groupId\":565,\"roomId\":1140744141,\"shadowId\":0,\"ismemberlogin\":true,\"uid\":\"DF418B7F\",\"infoSec\":false}",
+          "computeRoomPerson": 0,
+          "roomLayerInfo": {
+            "prePaidInfo": {
+              "list": [
+                {
+                  "type": "RoomPrice",
+                  "title": "会员专享",
+                  "content": "¥309",
+                  "adultAndChildrenInfo": ""
+                },
+                {
+                  "type": "Coupon",
+                  "title": "满减券",
+                  "content": "- ¥5"
+                }
+              ]
+            },
+            "totalInfo": {
+              "price": "¥304"
+            },
+            "taxInfo": {
+              "offlineTaxInfoDetailList": [],
+              "totalOfflineTaxPrice": ""
+            }
+          }
+        },
+        {
+          "member": {
+            "list": []
+          },
+          "score": {
+            "number": "4.5",
+            "desc": "不错",
+            "subScore": [
+              {
+                "number": "4.5",
+                "content": "环境"
+              },
+              {
+                "number": "4.5",
+                "content": "卫生"
+              },
+              {
+                "number": "4.5",
+                "content": "服务"
+              },
+              {
+                "number": "4.5",
+                "content": "设施"
+              }
+            ]
+          },
+          "money": {
+            "price": "274",
+            "priceDelete": "292",
+            "priceNote": "每晚 (不含税)",
+            "discount": [
+              {
+                "type": "1",
+                "list": [
+                  "已减¥18"
+                ]
+              }
+            ],
+            "priceAndTax": "273.55",
+            "includeTaxText": "",
+            "includeTaxPrice": ""
+          },
+          "base": {
+            "starType": "DIAMOND",
+            "star": 3,
+            "hotelName": "维也纳酒店(深圳宝安中心流塘地铁站店)",
+            "hotelId": 1573533,
+            "bookUrl": "",
+            "book": "查看详情",
+            "badge": "23",
+            "badgeHover": "携程紧密合作酒店/供应商，提供实惠价格。",
+            "isFavor": false,
+            "hotelEnName": "",
+            "tags": [
+              "自助早餐",
+              "洗衣房",
+              "会议厅",
+              "免费客房WiFi",
+              "影音房",
+              "棋牌房",
+              "欧式风格",
+              "免费行李寄存",
+              "干衣机",
+              "无烟楼层"
+            ],
+            "isFullRoom": false,
+            "isPrimeHotel": false,
+            "encryptTags": [],
+            "p5Tags": [
+              {
+                "title": "优惠18",
+                "style": "0"
+              },
+              {
+                "title": "十亿豪补",
+                "style": "1"
+              }
+            ],
+            "p6Tags": [],
+            "person": 0,
+            "shaIcon": "",
+            "starIcon": "http://webresource.c-ctrip.com/ResH5HotelOnline/R1/hotel_detail_icon_diamond3_20180824.png",
+            "hotelStatus": 0,
+            "hotelTypeTag": "",
+            "badgeUrl": "https://pages.c-ctrip.com/wireless-app/icons/ic_tag_silver_3x.png",
+            "primeHotelIcon": "https://pages.c-ctrip.com/wireless-app/imgs/tagicon/PrimeHotel.png"
+          },
+          "picture": {
+            "list": [
+              "//dimg04.c-ctrip.com/images/0206w120007r1vzdi6A06_R_300_225_R5_Q70_D.jpg"
+            ],
+            "defaultUrl": "http://pic.tripcdn.com/picaresenglish/ibu/fe-hotel/images/nohotelsmall.4fc3abb4.png"
+          },
+          "position": {
+            "cityId": 30,
+            "area": "宝安商业区",
+            "poi": "距市中心直线17.9公里",
+            "lat": "22.579462",
+            "lng": "113.888215",
+            "address": "西乡街道建安二路56号",
+            "cityName": "深圳"
+          },
+          "transport": {},
+          "comment": {
+            "content": "797条点评"
+          },
+          "trace": {},
+          "promotion": [],
+          "isHotHotel": false,
+          "ctripTrace": {
+            "listRoomId": 0,
+            "listShadowId": 0,
+            "exchange": "1.0",
+            "currency": "CNY",
+            "productInfo": "00000b7EUqtZn7M0MGOIU4nVxx8bOEsetd+93euzrhPLza5yATl3MEtU1iAhCSO/Q7lZJ7czk7+6Luymp\nazEw5jVnPlLuPMPimLkbo1Fwh7lzUBxd/HHCBZRvciXMzLhGRpqN8pETDwLoVwgewkCB+HU1pA6X\n1TbNYk/LibFZnFrZ5ZYe+YDib3wAEf9xv9s6jrQIT3yOPDZNWKWPoBwofyrMMeGzRqxWTmwX73hm\nTM2OvHsPmHNj1EYELPKafoS69FpGNq6ETo06uwepCJPP7gc1hS2OwK1PMiTEsQzLLu9Qb7o35aEr\nb2UaLHU8LhXi4gOxaaRSpyLPfhnc4NSIExfotV0tXIHkGsE4Q+ZhGPfLDOPSAQv3nkkRLgAyvgjM\nZO9BM6pZDU6tbDI33r9bF8FY8BRjLmafH2XBAaPPWkaT98TyMaa/F7fSWK2l5RJUcVWrcQsVUzC2\nIIMZHlEqKb2ZNh6+ojx+sLftWDMl+rYdfb4qoHjE2G/TUn0EsycJ72r47NendKh5h6SL+ulllJI9\ndzE3Angj6lzYCwGBWgZZbl83Ts602KHbfbaq+EJJX3AtPcc6/7XhEShSckI6D48tzdr3Wf7uF7BR\nExfh0C2V/+oXba1Ib5WQfZ0Ztu/zD/frL5WdkxNN6m1RchK/yIVGOztWKlYzi9KGOPKDVofiDnE=\n"
+          },
+          "passToNext": "00000IdepS3lHe6zsaCdD4hpVozQSqUtoMEmARbQlAyff+QI/x7YNH2QADQ2dH/yfhYMvPILXk2R5K3ObtmuCS87HZ6FRcc5i/GxKIR8r91t3YQCYYYZu2PWI7ZM2f6jgsO6hpr3affI7bNzL1v0SO7LGdRX/3F+ndCpq0mVbj9m73X4KftnKH34SnvKjRGWa9gEdEB1Y0NBCk1QaHMV2ylJtitDcNbRGJH5BuOKsmFnpWWUs/5S1c8xlg/dr0dl9wad9sc+iAFOjsIqA39BZ86pkwA==",
+          "traceInfo": "{\"timestamp\":1726056623295,\"checkIn\":\"2024-09-28\",\"checkOut\":\"2024-10-02\",\"region\":\"MAINLAND\",\"cityId\":30,\"hotelId\":1573533,\"groupId\":565,\"roomId\":1092426036,\"shadowId\":0,\"ismemberlogin\":true,\"uid\":\"DF418B7F\",\"infoSec\":false}",
+          "computeRoomPerson": 0,
+          "roomLayerInfo": {
+            "prePaidInfo": {
+              "list": [
+                {
+                  "type": "RoomPrice",
+                  "title": "每间每晚均价",
+                  "content": "¥291.30",
+                  "adultAndChildrenInfo": ""
+                },
+                {
+                  "type": "Coupon",
+                  "title": "十亿豪补",
+                  "content": "- ¥17.75"
+                }
+              ]
+            },
+            "totalInfo": {
+              "price": "¥273.55",
+              "aboutEqualPrice": "¥274"
+            },
+            "taxInfo": {
+              "offlineTaxInfoDetailList": [],
+              "totalOfflineTaxPrice": ""
+            }
+          }
+        },
+        {
+          "member": {
+            "list": []
+          },
+          "score": {
+            "number": "4.3",
+            "desc": "",
+            "subScore": [
+              {
+                "number": "4.3",
+                "content": "环境"
+              },
+              {
+                "number": "4.3",
+                "content": "卫生"
+              },
+              {
+                "number": "4.4",
+                "content": "服务"
+              },
+              {
+                "number": "4.2",
+                "content": "设施"
+              }
+            ]
+          },
+          "money": {
+            "price": "278",
+            "priceNote": "每晚 (不含税)",
+            "discount": [],
+            "priceAndTax": "278",
+            "includeTaxText": "",
+            "includeTaxPrice": ""
+          },
+          "base": {
+            "starType": "DIAMOND",
+            "star": 3,
+            "hotelName": "维也纳酒店(深圳南新路店)",
+            "hotelId": 1349293,
+            "bookUrl": "",
+            "book": "查看详情",
+            "badge": "23",
+            "badgeHover": "携程紧密合作酒店/供应商，提供实惠价格。",
+            "isFavor": false,
+            "hotelEnName": "",
+            "tags": [
+              "机器人服务",
+              "情侣房",
+              "无烟楼层",
+              "套房",
+              "欧式风格",
+              "免费客房WiFi",
+              "中式餐厅",
+              "免费停车"
+            ],
+            "isFullRoom": false,
+            "isPrimeHotel": false,
+            "encryptTags": [],
+            "p5Tags": [],
+            "p6Tags": [],
+            "person": 0,
+            "shaIcon": "",
+            "starIcon": "http://webresource.c-ctrip.com/ResH5HotelOnline/R1/hotel_detail_icon_diamond3_20180824.png",
+            "hotelStatus": 0,
+            "hotelTypeTag": "",
+            "badgeUrl": "https://pages.c-ctrip.com/wireless-app/icons/ic_tag_silver_3x.png"
+          },
+          "picture": {
+            "list": [
+              "//dimg04.c-ctrip.com/images/200d04000000048ot7C6D_R_300_225_R5_Q70_D.jpg"
+            ],
+            "defaultUrl": "http://pic.tripcdn.com/picaresenglish/ibu/fe-hotel/images/nohotelsmall.4fc3abb4.png"
+          },
+          "position": {
+            "cityId": 30,
+            "area": "科技园",
+            "poi": "距市中心直线14.2公里",
+            "lat": "22.536083",
+            "lng": "113.920061",
+            "address": "南头街88号",
+            "cityName": "深圳"
+          },
+          "transport": {},
+          "comment": {
+            "content": "1,047条点评"
+          },
+          "trace": {},
+          "promotion": [],
+          "isHotHotel": false,
+          "ctripTrace": {
+            "listRoomId": 0,
+            "listShadowId": 0,
+            "exchange": "1.0",
+            "currency": "CNY",
+            "productInfo": "00000b7EUqtZn7M0wMsi6PR1KqiUI2lwHS/yseuzrhPLza5yATl3MEtU1iAhCSO/Q7lZJ7czk7+6Luymp\nazEw5jVnPlLuPMPimLkbo1Fwh7lzUBxDE2XyoX/zm0SUf5NraAAq1bAHAhQxQSERP7BgrvaVCDa7\n3uEEQGvkmyEfZHchUr+4LhWLe4Vp5W2rX6r2Ao3c6XrN55g9yJ1YUUcNRe9kvruKLVzpZTtq+Fbp\nnHQ3VDQAMr4IzGTvQYRX+RkXCOpFiRAMXQ5aB0Gcy5aygpwJj+79MBqxfZ4ATZwRITAX3piJ40NK\nRvr8DtyA1b7yuodjr5XekXufRFCEpbsICLl5K4GMY8o3smZhOqbcp6oswIfOhriO4RE75tfUDiG2\nTR8M5QhSkNXaWy54TPg4DVvfHyBd3+GxBnWsiE50wEOtwlNDxibrc6k+L+wln9qJ6z8sVEDtlS3B\npzBr+K7EBlyM+/xYRDdAyrbuz7PM2GTNwrA0ZJyyfkA+U+5oztH1tVcX\n"
+          },
+          "passToNext": "00000IdepS3lHe6zsaCdD4hpVozQSqUtoMEmARbQlAyff+QI/x7YNH2QADQ2dH/yfhYMvPILXk2R5K3ObtmuCS87HZ6FRcc5i/GxKIR8r91t3YQCYYYZu2PWI7ZM2f6jgsO6hpr3affI7bNzL1v0SO7LGdRX/3F+ndCpq0mVbj9m73X4KftnKH34SnvKjRGWa9gEdEB1Y0NBCk1TYSuDAmOfKWNDcNbRGJH5BGIbvyHn5zK07E5V+L79qJPdr0dl9wad9sc+iAFOjsIqA39BZ86pkwA==",
+          "traceInfo": "{\"timestamp\":1726056623295,\"checkIn\":\"2024-09-28\",\"checkOut\":\"2024-10-02\",\"region\":\"MAINLAND\",\"cityId\":30,\"hotelId\":1349293,\"groupId\":565,\"roomId\":1580537397,\"shadowId\":0,\"ismemberlogin\":true,\"uid\":\"DF418B7F\",\"infoSec\":false}",
+          "computeRoomPerson": 0,
+          "roomLayerInfo": {
+            "prePaidInfo": {
+              "list": [
+                {
+                  "type": "RoomPrice",
+                  "title": "每间每晚均价",
+                  "content": "¥278",
+                  "adultAndChildrenInfo": ""
+                }
+              ]
+            },
+            "totalInfo": {
+              "price": "¥278"
+            },
+            "taxInfo": {
+              "offlineTaxInfoDetailList": [],
+              "totalOfflineTaxPrice": ""
+            }
+          }
+        }
+      ],
+      "lastPage": 0
+    },
+    "resultTitle": "找到149家酒店",
+    "sortInfo": {
+      "list": [
+        {
+          "text": "推荐",
+          "status": 1,
+          "value": "AppointRank"
+        },
+        {
+          "text": "价格",
+          "list": [
+            {
+              "text": "价格（由低到高）",
+              "status": 0,
+              "value": "price0"
+            },
+            {
+              "text": "价格（由高到低）",
+              "status": 0,
+              "value": "price1"
+            }
+          ],
+          "status": 0
+        },
+        {
+          "text": "星级",
+          "list": [
+            {
+              "text": "星級（由高至低）",
+              "status": 0,
+              "value": "sr1"
+            },
+            {
+              "text": "星級（由低至高）",
+              "status": 0,
+              "value": "sr0"
+            }
+          ],
+          "status": 0
+        },
+        {
+          "text": "住客评级",
+          "status": 0,
+          "value": "gr1"
+        },
+        {
+          "text": "距离",
+          "status": 0,
+          "value": "dis0"
+        }
+      ]
+    },
+    "seqid": "c061fed91e55424a9482013918bab598",
+    "priceType": "0",
+    "isOversea": false,
+    "GtmData": "",
+    "specialInfo": "",
+    "recommendHotel": {},
+    "isPOISort": "F",
+    "directSearchFilter": {
+      "needDeleteKeyword": false
+    },
+    "abTestResult": "A",
+    "isEnd": false,
+    "traceId": 1985670,
+    "ubt": "{\"filters\":[{\"filterId\":\"22|666667\",\"type\":\"22\",\"value\":\"666667\",\"subType\":\"2\"},{\"filterId\":\"29|1\",\"type\":\"29\",\"value\":\"1|1\",\"subType\":\"2\"},{\"filterId\":\"30|维也纳\",\"type\":\"30\",\"value\":\"维也纳\"}],\"words\":[{\"wordType\":\"hotelBrand\",\"wordId\":1664,\"wordName\":\"维也纳\",\"wordTypeId\":\"2010\"}],\"userPrefer\":\"{\\\"category\\\":\\\"\\\",\\\"prices\\\":{\\\"absolutePrice\\\":165,\\\"highestPrice\\\":197,\\\"lowestPrice\\\":125,\\\"predictPrice\\\":165,\\\"priceFlag\\\":0,\\\"prices\\\":[{\\\"leftDownPirce\\\":100,\\\"leftUpPrice\\\":124,\\\"priority\\\":2,\\\"rightDownPrice\\\":198,\\\"rightUpPrice\\\":270,\\\"schema\\\":{\\\"fields\\\":[{\\\"name\\\":\\\"priority\\\",\\\"ordering\\\":\\\"IGNORE\\\",\\\"pos\\\":0,\\\"schema\\\":{\\\"name\\\":\\\"union\\\",\\\"schemas\\\":[{\\\"name\\\":\\\"int\\\",\\\"type\\\":\\\"INT\\\"},{\\\"name\\\":\\\"null\\\",\\\"type\\\":\\\"NULL\\\"}],\\\"type\\\":\\\"UNION\\\"}},{\\\"name\\\":\\\"leftDownPirce\\\",\\\"ordering\\\":\\\"IGNORE\\\",\\\"pos\\\":1,\\\"schema\\\":{\\\"name\\\":\\\"union\\\",\\\"schemas\\\":[{\\\"name\\\":\\\"int\\\",\\\"type\\\":\\\"INT\\\"},{\\\"name\\\":\\\"null\\\",\\\"type\\\":\\\"NULL\\\"}],\\\"type\\\":\\\"UNION\\\"}},{\\\"name\\\":\\\"leftUpPrice\\\",\\\"ordering\\\":\\\"IGNORE\\\",\\\"pos\\\":2,\\\"schema\\\":{\\\"name\\\":\\\"union\\\",\\\"schemas\\\":[{\\\"name\\\":\\\"int\\\",\\\"type\\\":\\\"INT\\\"},{\\\"name\\\":\\\"null\\\",\\\"type\\\":\\\"NULL\\\"}],\\\"type\\\":\\\"UNION\\\"}},{\\\"name\\\":\\\"rightDownPrice\\\",\\\"ordering\\\":\\\"IGNORE\\\",\\\"pos\\\":3,\\\"schema\\\":{\\\"name\\\":\\\"union\\\",\\\"schemas\\\":[{\\\"name\\\":\\\"int\\\",\\\"type\\\":\\\"INT\\\"},{\\\"name\\\":\\\"null\\\",\\\"type\\\":\\\"NULL\\\"}],\\\"type\\\":\\\"UNION\\\"}},{\\\"name\\\":\\\"rightUpPrice\\\",\\\"ordering\\\":\\\"IGNORE\\\",\\\"pos\\\":4,\\\"schema\\\":{\\\"name\\\":\\\"union\\\",\\\"schemas\\\":[{\\\"name\\\":\\\"int\\\",\\\"type\\\":\\\"INT\\\"},{\\\"name\\\":\\\"null\\\",\\\"type\\\":\\\"NULL\\\"}],\\\"type\\\":\\\"UNION\\\"}}],\\\"fullName\\\":\\\"com.ctrip.hotel.user.profile.contract.entity.PriceLayer\\\",\\\"name\\\":\\\"PriceLayer\\\",\\\"namespace\\\":\\\"com.ctrip.hotel.user.profile.contract.entity\\\",\\\"schemaName\\\":{\\\"fullName\\\":\\\"com.ctrip.hotel.user.profile.contract.entity.PriceLayer\\\",\\\"name\\\":\\\"PriceLayer\\\",\\\"namespace\\\":\\\"com.ctrip.hotel.user.profile.contract.entity\\\",\\\"space\\\":\\\"com.ctrip.hotel.user.profile.contract.entity\\\"},\\\"type\\\":\\\"RECORD\\\"}}],\\\"quantilePrice\\\":165},\\\"stars\\\":{\\\"stars\\\":[2,3,4]},\\\"userPredict\\\":{\\\"userType\\\":4}}\"}",
+    "disableSsr": false,
+    "hotelSearchCompensateInfo": {}
+  },
+  "ResponseStatus": {
+    "Timestamp": "/Date(1726056623301+0800)/",
+    "Ack": "Success",
+    "Errors": [],
+    "Extension": [
+      {
+        "Id": "TraceLogId",
+        "Value": "4305f620-82d0-4c47-9190-b00e747835571726056622616"
+      },
+      {
+        "Id": "CLOGGING_TRACE_ID",
+        "Value": "8773599498187760617"
+      },
+      {
+        "Id": "RootMessageId",
+        "Value": "100025527-0a91b49b-479460-325296"
+      }
+    ]
+  },
+  "ErrorCode": 0
+}
